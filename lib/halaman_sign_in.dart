@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:template_project/halaman_dashboard.dart';
 import 'package:template_project/halaman_sign_up.dart';
 
 
@@ -42,7 +43,12 @@ class HalamanSignIn extends StatelessWidget {
             ),
             SizedBox(height: 20),
             ElevatedButton(
-              onPressed: () {},
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => HalamanDashboard()),
+                );
+              },
               style: ElevatedButton.styleFrom(
                 backgroundColor: Colors.green,
                 padding: EdgeInsets.symmetric(horizontal: 50, vertical: 15),
