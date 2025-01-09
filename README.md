@@ -1,18 +1,42 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6dbs_zXm)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17653086&assignment_repo_type=AssignmentRepo)
-# template_project
+# Nama:AqshalFakhri Eka Surya Saputra NIM:362358302071 Kelas:2A TRPL
 
-A new Flutter project.
+# Tampilan awal
+![Screenshot 2025-01-09 180957](https://github.com/user-attachments/assets/9aa9c7a4-ce90-4083-87a5-67690f178499)
 
-## Getting Started
+Berisi tombol login dan register atau sign in dan sign up
 
-This project is a starting point for a Flutter application.
+# Tampilan Sign Up
+![Screenshot 2025-01-09 181051](https://github.com/user-attachments/assets/dbbf7481-3a1f-48ac-92f4-0dd1f216ebbb)
 
-A few resources to get you started if this is your first Flutter project:
+Berisi tampilan untuk register akun
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Tampilan Sign In
+![Screenshot 2025-01-09 181124](https://github.com/user-attachments/assets/37f95846-fa8a-49c5-a7c6-8188397fcafb)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Berisi tampilan untuk melakukan login
+
+# Tampilan Dashboard
+![Screenshot 2025-01-09 191706](https://github.com/user-attachments/assets/f702b79a-4ec4-4a58-bd16-05aa365a3514)
+
+Berisi tampilan dashboard akun dan juga bottom navigation
+
+# Tampilan Message
+![Screenshot 2025-01-09 193904](https://github.com/user-attachments/assets/9942ee92-afda-491e-a70f-254f61549152)
+
+Berisi tampilan pesan pesan dan bottom navigation juga
+
+# Tampilan Profile
+![Screenshot 2025-01-09 193917](https://github.com/user-attachments/assets/1527b0b5-6111-4639-89e5-5a0415ebdcd2)
+
+Berisi tampilan profil akun dan bottom navigation juga
+
+# Tampilan Log Out
+![Screenshot 2025-01-09 193929](https://github.com/user-attachments/assets/f16aeda5-7bdd-475c-93cc-57876beffeba)
+
+Berisi tampilan pop out untuk Logout dari aplikasi
+
+
+
+
+
+
